@@ -1,0 +1,18 @@
+{
+    "name": "thecodeholic/phpmvc-framework",
+    "authors": [
+        {
+            "name": "Kelompok 3",
+            "email": "mohamad.18050@mhs.unesa.ac.id"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "."
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.0",
+        "thecodeholic/php-mvc-core": "^v1.0.4"
+    }
+}
