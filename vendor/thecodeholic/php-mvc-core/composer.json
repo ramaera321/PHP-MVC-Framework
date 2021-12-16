@@ -1,0 +1,9 @@
+{
+    "name": "thecodeholic/php-mvc-core",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "thecodeholic\\phpmvc\\": "."
+        }
+    }
+}
